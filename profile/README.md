@@ -3,7 +3,7 @@
   <h1>Dpm</h1>
 </div>
 
-> :rocket: The missing `Deno Package Manager`
+## :rocket: The missing `Deno Package Manager`
 
 ---
 Made with :heart: in the :earth:

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/97813425" alt="Dpm Logo" width="100">
+  <img src="https://avatars.githubusercontent.com/u/97813425" alt="Dpm Logo" width="200">
   <h1>Dpm</h1>
 </div>
 

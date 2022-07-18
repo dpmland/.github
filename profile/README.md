@@ -19,6 +19,7 @@ Manager** with this tool you can manage the Deno Modules, Deno Development tools
   directories, deno and files informations
 - [Dlog](https://github.com/dpmland/dlog) A minimal logger with icons and file logging
   support
+- [Deno Json Colorizer](https://github.com/dpmland/deno-json-colorizer) A library for colorizing JSON strings for Deno
 
 Soon more :alien:
 

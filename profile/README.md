@@ -20,6 +20,8 @@ Manager** with this tool you can manage the Deno Modules, Deno Development tools
 - [Dlog](https://github.com/dpmland/dlog) A minimal logger with icons and file logging
   support
 - [Deno Json Colorizer](https://github.com/dpmland/deno-json-colorizer) A library for colorizing JSON strings for Deno
+- [Monk](https://github.com/dpmland/monk) Do you want generate a installer for your app use this!! :monkey:
+- [Beno](https://github.com/dpmland/beno) Do you want to manage the settings of your apps? Make it easy with the help of Beno :bunny:
 
 Soon more :alien:
 

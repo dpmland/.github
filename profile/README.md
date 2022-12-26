@@ -27,4 +27,4 @@ Soon more :alien:
 
 ---
 
-Made with :heart: in the :earth_americas:
+Made with :heart: in Ecuador and the World
